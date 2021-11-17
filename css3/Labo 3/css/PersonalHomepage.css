@@ -124,3 +124,8 @@ h3 {
 table th, td {
     text-align: center;
 }
+.onbekend {
+    background-color: darkred;
+    color: white;
+    font-weight: bolder;
+}
