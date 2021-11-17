@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css3/Labo 4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo 3/css/PersonalHomepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo 3/css/PersonalHomepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo 4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css3/Labo 3/html/PersonalHomepage" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
