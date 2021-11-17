@@ -1,0 +1,123 @@
+/* ALGEMENE OPMAAK */
+* {
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.margin {
+    margin: 0px 230px;
+    padding: 50px 0px;
+}
+
+body {
+    font-family : 'Times New Roman', sans-serif;
+}
+
+/* OPMAAK VAN DOCUMENT ZELF */
+p {
+    padding-bottom: 15px;
+}
+
+.img{
+    display: block;
+    width: 75%;
+}
+
+.icoon {
+    width: 12pt;
+    height: auto;
+}
+
+header h1 {
+    color: cadetblue;
+    font-size: 50pt;
+    font-weight: 500;
+}
+
+header p {
+    color: white;
+}
+
+.tussentitel {
+    font-size: 16pt;
+    padding-bottom: 40px;
+}
+
+
+
+/* OPDRACHTEN */
+
+h2 {
+    text-transform: uppercase;
+    color: #222222;
+    font-size: 15pt;
+    font-weight: 600;
+    padding: 5px 10px;
+    margin: 0px 0px 30px 40px;
+}
+
+
+.box {
+    border-radius: 10px;
+    margin-bottom: 25px;
+    padding: 25px 50px;
+}
+
+
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #222222;
+}
+
+
+.darkpink {
+    background-color: rgb(250,120,120);
+}
+
+tbody tr td:last-child {
+    background-color: rgb(255, 220, 220);
+}
+
+tbody tr td:first-child {
+    background-color: rgb(255, 220, 220);
+}
+
+.gray {
+    background-color: lightgray !important;
+    color: dimgray !important;
+}
+
+table th {
+    text-align: center;
+    padding: 15px;
+    border: 2px dotted black;
+}
+
+table td {
+    text-align: center;
+    padding: 15px;
+    border: 2px dotted black;
+}
+
+table {
+    border-collapse: collapse;
+    border: 4px solid black;
+}
+
+.weekdays {
+    background-color: rgb(70,100,300);
+    color: rgb(200,190,240)
+}
+
+.month {
+    background-color: rgb(180,170,200);
+    color: black;
+}
+
+.underline {
+    text-decoration: underline;
+    color: rgb(250, 95, 120);
+}
