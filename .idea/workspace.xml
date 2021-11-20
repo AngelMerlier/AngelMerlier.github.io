@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css3/Labo 4/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo 4/css/stylesCocktail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo 4/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo 3/css/PersonalHomepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo 3/css/PersonalHomepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo 3/html/PersonalHomepage/vrienden.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo 3/html/PersonalHomepage/vrienden.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo 3/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo 3/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo 4/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -40,6 +41,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -59,11 +61,11 @@
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\html5\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 4\html" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 3\\PesonalHomepage" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 3\html" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 3" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\html" />
-      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\opgave nature blog(1)" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,6 +86,8 @@
       <workItem from="1637055950860" duration="2453000" />
       <workItem from="1637091494194" duration="12523000" />
       <workItem from="1637140335537" duration="342000" />
+      <workItem from="1637160048156" duration="1164000" />
+      <workItem from="1637418323146" duration="6351000" />
     </task>
     <servers />
   </component>
@@ -101,5 +105,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

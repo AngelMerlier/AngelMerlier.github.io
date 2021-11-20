@@ -1,0 +1,68 @@
+
+
+body {
+    font-family : Georgia, sans-serif;
+    background-color: lavenderblush;
+    width: 85%;
+    margin: auto;
+}
+
+/* OPMAAK DOCUMENT*/
+header{
+    background-color: aliceblue;
+
+}
+
+section{
+    background-color: lightblue;
+}
+p {
+    padding-bottom: 15px;
+}
+
+.img{
+    display: block;
+    width: 70%;
+}
+
+header h1 {
+    color: p;
+    font-size: 50pt;
+    font-weight: 500;
+}
+
+header p {
+    color: white;
+}
+
+.tussentitel {
+    font-size: 16pt;
+    padding-bottom: 40px;
+}
+
+
+
+/* OPDRACHTEN */
+
+h2 {
+    text-transform: uppercase;
+    color: #222222;
+    font-size: 15pt;
+    font-weight: 600;
+}
+
+
+.box {
+    border-radius: 10px;
+    margin-bottom: 25px;
+    padding: 25px 50px;
+}
+
+
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #222222;
+}
+
