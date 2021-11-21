@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css3/Labo 4/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo 4/css/stylesCocktail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo 4/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo 4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo 4/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo 4/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo 4/css/stylesCocktail.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo 4/css/stylesCocktail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo 4/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo 4/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo 4/opdracht cocktail bar(1)/begin_cocktail_bar/loungestart.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo 4/opdracht cocktail bar(1)/begin_cocktail_bar/loungestart.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <workItem from="1637091494194" duration="12523000" />
       <workItem from="1637140335537" duration="342000" />
       <workItem from="1637160048156" duration="1164000" />
-      <workItem from="1637418323146" duration="6351000" />
+      <workItem from="1637418323146" duration="11984000" />
     </task>
     <servers />
   </component>
