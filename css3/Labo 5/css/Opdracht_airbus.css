@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+   background-color: white;
+    /*background:
+            linear-gradient(110deg, rgba(255, 255, 255, 0.5) 65%, rgba(51,56,57,1) 96%) right / 956px no-repeat,
+            url("../opdracht airbus/fotos/pagebackground.png") center no-repeat,
+            white;*/
+    width: 960px;
+    text-align: center;
+}
+
+/*.background {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5),
+    rgba(0, 0, 0, 0.5)),
+    url("../opdracht airbus/fotos/pagebackground.png");
+}*/
+
+.top {
+    height: 200px;
+    background-image: url("../opdracht airbus/fotos/bgsky3.jpg");
+    text-align: center;
+    position: relative;
+    color: darkblue;
+}
+
+.vliegtuig {
+    position: absolute;
+    right: 90px;
+    bottom: 60px;
+}
+
+.bovenste {
+    font-size: 300%;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.onderste {
+    font-size: 240%;
+    font-weight: bold;
+}
+
+.news {
+    width: 250px;
+    float: right;
+    background-color: #dddddd;
+    border: 1px solid #999999;
+    margin-left: 10px;
+}
+
+.news > p {
+    color: #666666;
+    font-size: 90%;
+    padding: 10px;
+}
+
+.news > h3 {
+    color: white;
+    background: blue;
+    font-size: 120%;
+    text-align: center;
+}
+
+
+.main {
+    display: flex;
+    column-gap: 20px;
+    margin: 10px 0;
+    text-align: justify;
+}
+
+.main > img {
+    margin-left: 20px;
+}
+
+.blue {
+    color: blue;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.introduction {
+    text-align: justify;
+}
+
+.gallery {
+    display: flex;
+    background-color: #999999;
+}
+
+.foto img {
+    width: 180px;
+    height: 180px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius:10px;
+    border: 1px dashed #999999;
+    background-color: white;
+}
+
+.bottom {
+    background-color: #666666;
+    color:white;
+    line-height: 2em;
+    /*margin-left: 120px;*/
+    display: flex;
+}
+
+.bottom a {
+    color: white;
+}
+
+.bottom a:hover {
+    color: red;
+}
+
+.bottom > div{
+    margin-left: 120px;
+}
+
+.copyright {
+    text-align: center;
+    color:black;
+    background-color: white;
+}
