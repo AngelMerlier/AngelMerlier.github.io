@@ -4,7 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="" />
+    <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/css3/Labo 5/css/Opdracht.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +86,7 @@
       <workItem from="1637418323146" duration="17617000" />
       <workItem from="1637515115319" duration="612000" />
       <workItem from="1638219292381" duration="1127000" />
-      <workItem from="1638288676470" duration="22338000" />
+      <workItem from="1638288676470" duration="22720000" />
     </task>
     <servers />
   </component>
