@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css3/Labo 6/PersonalHomepage2/hobby's.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo 6/PersonalHomepage2/images/afb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo 6/PersonalHomepage2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo 6/PersonalHomepage2/likes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo 6/beginsituatie_bootstrap4/style/index_Oef2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo 6/css/PersonalHomepage2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo 6/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo 6/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo 6/html/oefening 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_7/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_7/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +92,7 @@
       <workItem from="1638288676470" duration="22720000" />
       <workItem from="1638345030487" duration="97000" />
       <workItem from="1638363773205" duration="6528000" />
-      <workItem from="1638919259890" duration="9807000" />
+      <workItem from="1638919259890" duration="11348000" />
     </task>
     <servers />
   </component>
