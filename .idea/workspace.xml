@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise5.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise5.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css3/Labo_7/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/html/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +93,7 @@
       <workItem from="1638288676470" duration="22720000" />
       <workItem from="1638345030487" duration="97000" />
       <workItem from="1638363773205" duration="6528000" />
-      <workItem from="1638919259890" duration="15475000" />
+      <workItem from="1638919259890" duration="17643000" />
     </task>
     <servers />
   </component>
