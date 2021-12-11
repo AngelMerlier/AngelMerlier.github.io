@@ -7,3 +7,8 @@
     padding:50px;
     background-color: white;
 }
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+}
