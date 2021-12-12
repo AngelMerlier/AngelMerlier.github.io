@@ -11,7 +11,7 @@ section{
 
 .title {
     background:
-            linear-gradient(110deg, rgba(255,255,255,.2) 75%, rgba(255,255,255,255) 96%) right / 1250px 750px no-repeat,
+            linear-gradient(110deg, rgba(255,255,255,.2) 75%, rgba(255,200,225,225) 96%) right / 1250px 750px no-repeat,
             lightblue;
     padding: 25px 50px;
     margin-top: 10px;
@@ -20,7 +20,7 @@ section{
 }
 .box {
     background:
-            linear-gradient(110deg, rgba(255,255,255,.2) 65%, rgba(255,255,255,255) 96%) right / 1250px 750px no-repeat,
+            linear-gradient(110deg, rgba(255,255,255,.2) 65%, rgba(255,200,225,225) 96%) right / 1250px 750px no-repeat,
             lightblue;
     padding: 25px 50px;
     margin-bottom: 25px;
