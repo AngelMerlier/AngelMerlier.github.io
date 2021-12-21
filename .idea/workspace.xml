@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/css/stylesCocktail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/Oefening  cocktail_bar.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/black.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/blue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/chai.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/cocktail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/cocktails.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/green.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/lightblue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/red.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/yellow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/loungestart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo_7/Beginsituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/Beginsituatie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo_8/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_8/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/loungestart.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/loungestart.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +94,7 @@
       <workItem from="1638363773205" duration="6528000" />
       <workItem from="1638919259890" duration="23748000" />
       <workItem from="1639572934603" duration="7099000" />
-      <workItem from="1640102714064" duration="8000000" />
+      <workItem from="1640102714064" duration="8377000" />
     </task>
     <servers />
   </component>
