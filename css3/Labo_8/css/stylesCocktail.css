@@ -1,0 +1,82 @@
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    color: #007e7e;
+    font-size: 150%;
+}
+
+h2 {
+    color: #007e7e;
+    font-size: 130%;
+}
+
+footer {
+    font-size: 50%;
+    /*position: fixed;*/
+    /*bottom: 0;*/
+    text-align: center;
+}
+
+.black{
+    color:black;
+}
+
+.purple{
+    color: blueviolet;
+}
+
+.blue{
+    color: royalblue;
+}
+
+.rechts a:hover {
+    background-color: #555555;
+    color: white;
+    border-radius: 1px;
+}
+
+header > p > img {
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -40px;
+}
+
+.flex {
+    display: flex;
+}
+
+.links {
+    width: 65%;
+    float:left;
+}
+
+.rechts {
+    width: 35%;
+    float: right;
+    padding: 30px;
+    text-align: center;
+    margin-left: 50px;
+    border: 1px solid #007e7e;
+    background-image: url("../opdracht cocktail bar(1)/begin_cocktail_bar/images/cocktail.gif");
+}
+
+#guarantee {
+    font-style: italic;
+    margin: 30px;
+    padding: 20px;
+    background-color: #a7cece;
+    color: #444444;
+    border: 3px white dotted;
+    display: flex;
+}
+
+
+.star {
+    width: 50px;
+    height: 100%;
+}
+

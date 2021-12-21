@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/css/stylesCocktail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/Oefening  cocktail_bar.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/cocktails.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/images/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css3/Labo_8/opdracht cocktail bar(1)/begin_cocktail_bar/loungestart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo_7/Beginsituatie/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/Beginsituatie/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise5.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise6.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/Grid Exercises/css/exercise6.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo_7/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3/Labo_7/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3/Labo_7/Beginsituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css3/Labo_7/Beginsituatie/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML4 File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -48,7 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css3/Labo 6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css3/Labo_8/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
@@ -56,11 +67,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo_8\css" />
+      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo_8" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 6" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 3\html\PersonalHomepage" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 3\html\PesonalHomepage" />
-      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Labo 3" />
-      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 2\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 5\html" />
@@ -95,7 +106,9 @@
       <workItem from="1638288676470" duration="22720000" />
       <workItem from="1638345030487" duration="97000" />
       <workItem from="1638363773205" duration="6528000" />
-      <workItem from="1638919259890" duration="23525000" />
+      <workItem from="1638919259890" duration="23748000" />
+      <workItem from="1639572934603" duration="7099000" />
+      <workItem from="1640102714064" duration="8000000" />
     </task>
     <servers />
   </component>
