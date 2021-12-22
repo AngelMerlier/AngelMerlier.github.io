@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url("../source_Out_of_Africa/stripverloopokapi.jpg");
+  font-family: "Times New Roman", sans-serif;
+}
+header {
+  background-image: url("../source_Out_of_Africa/headerokapi.jpg");
+  text-align: center;
+  padding: 10px 0;
+  height: 180px;
+  box-sizing: border-box;
+  border-bottom: 1px solid black;
+}
+
+.content {
+  width: 970px;
+  margin: 0 auto;
+  background-color: #ECEADF;
+}
+
+article h1 {
+  margin: 15px 0;
+  font-style: 1.15em;
+}
+
+article img {
+  border: 1px solid black;
+  float: left;
+  margin: 10px 10px 25px 0;
+}
+
+span {
+  display:block;
+  border: 1px solid black;
+  margin: 15px 5px 0 0;
+  padding: 10px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+nav {
+  display: block;
+  text-align: center;
+}
+
+nav a {
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  padding: 20px 37px;
+}
+
+.links {
+  box-sizing: border-box;
+  float: left;
+  width: 598px;
+  padding: 10px 0 0 10px;
+}
+
+.rechts {
+  box-sizing: border-box;
+  float: right;
+  padding: 0 10px;
+  width: 372px;
+}
+.rechts img {
+  display: block;
+  border: 1px black;
+  margin: 10px 0;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.clearfix::before, .clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+footer {
+  text-align: right;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
