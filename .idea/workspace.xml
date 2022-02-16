@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/scripts/Opdracht_1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/demo rekenmasjien/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_1/demo rekenmasjien/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/demo rekenmasjien/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_1/demo rekenmasjien/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/demo rekenmasjien/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_1/demo rekenmasjien/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/leeg project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_1/leeg project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/leeg project/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_1/leeg project/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/leeg project/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_1/leeg project/styles/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +24,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML4 File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -58,11 +67,11 @@
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 3\html\PersonalHomepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo_1" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 5\html" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 4\html" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 3\\PesonalHomepage" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 3\html" />
-      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -97,7 +106,7 @@
       <workItem from="1640172010397" duration="7417000" />
       <workItem from="1644696875895" duration="2153000" />
       <workItem from="1645018024867" duration="1561000" />
-      <workItem from="1645021038631" duration="732000" />
+      <workItem from="1645021038631" duration="1527000" />
     </task>
     <servers />
   </component>
