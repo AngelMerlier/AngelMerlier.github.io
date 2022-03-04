@@ -6,7 +6,7 @@ const setup = () => {
     console.log(family[4]);
     let familieLid = prompt("Geef uw naam", "Chris");
     family.unshift(familieLid);
-
+    console.log(family.toString());
 }
 window.addEventListener("load", setup);
 
