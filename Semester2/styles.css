@@ -35,6 +35,11 @@ a {
     font-size: medium;
 }
 
+/* mouse over link */
+a:hover {
+    color: purple;
+}
+
 footer {
     color:midnightblue;
 }
