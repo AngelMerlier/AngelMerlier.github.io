@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_kopieer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_substring.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript_Labo's.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_Arrays.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/Opdracht_Arrays.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/scripts/Opdracht 5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/scripts/Opdracht 5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/scripts/Opdracht_Arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/scripts/Opdracht_Arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/scripts/Opdracht_kopieer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/scripts/Opdracht_kopieer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/scripts/Opdracht_substring.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_2/scripts/Opdracht_substring.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +99,7 @@
       <workItem from="1644696875895" duration="2153000" />
       <workItem from="1645018024867" duration="1561000" />
       <workItem from="1645021038631" duration="6555000" />
-      <workItem from="1646403828795" duration="8201000" />
+      <workItem from="1646403828795" duration="8514000" />
     </task>
     <servers />
   </component>
