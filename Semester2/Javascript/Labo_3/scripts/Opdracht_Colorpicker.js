@@ -1,4 +1,6 @@
 const setup = () => {
+    let slider = document.getElementById("slider");
+    for(let i = 0; i < slider)
 }
 /*const() => colorSliders(){
     btnInputEvents(red)

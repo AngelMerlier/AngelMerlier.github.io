@@ -3,15 +3,14 @@
     margin: auto;
 }
 #display{
-    background: #730aa2;
-    margin-top: 30px;
     border: 1px solid #000;
     border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    margin: auto;
+
 }
-input{
-    display: block;
-    width: 100%;
-}
+
 label {
     float: right;
 }

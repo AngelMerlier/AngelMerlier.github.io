@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/styles/Opdracht_Colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/Opdracht_Paragrafen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/Opdracht_Producten.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/scripts/Opdracht_Paragrafen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/scripts/Opdracht_Producten.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/Opdracht_Colorpicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/Opdracht_Colorpicker.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/scripts/Opdracht_Colorpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/scripts/Opdracht_Colorpicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/styles/Opdracht_Colorpicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/styles/Opdracht_Colorpicker.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +23,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML4 File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -103,7 +107,7 @@
       <workItem from="1645018024867" duration="1561000" />
       <workItem from="1645021038631" duration="6555000" />
       <workItem from="1646403828795" duration="9777000" />
-      <workItem from="1646826908528" duration="9868000" />
+      <workItem from="1646826908528" duration="11800000" />
     </task>
     <servers />
   </component>
