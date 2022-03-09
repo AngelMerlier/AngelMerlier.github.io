@@ -1,17 +1,27 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Opdracht Colorpicker</title>
-    <link rel="stylesheet" href="../../styles.css"/>
+    <link rel="stylesheet" href="../Labo_3/styles/Opdracht_Colorpicker.css"/>
 </head>
 <body>
 <section>
-    <p>Open het console venster, versleep daarna de slider hieronder en kijk welke berichten er komen</p>
-    <input type="range" class="slider" value="50" min="0" max="100" />
-</section>
-<section>
-    <p>Een gekleurd blokje :</p>
-    <div class="colorDemo" />
+        <div class="picker">
+            <div>
+                <label for="red">Red</label>
+                <input type="range" min="0" max="255" id="red">
+            </div>
+            <div>
+                <label for="green">Green</label>
+                <input type="range" min="0" max="255" id="green">
+            </div>
+            <div>
+                <label for="blue">Blue</label>
+                <input type="range" min="0" max="255" id="blue">
+            </div>
+    </div>
+    <div id="display"
+    </div>
 </section>
 <script type="text/javascript" charset="utf-8" src="scripts/Opdracht_Colorpicker.js"></script>
 </body>
