@@ -1,5 +1,5 @@
 .picker{
-    position: absolute;
+    position: fixed;
     margin: auto;
 }
 #display{
@@ -8,6 +8,7 @@
     width: 60px;
     height: 60px;
     margin: auto;
+    float: right;
 
 }
 
