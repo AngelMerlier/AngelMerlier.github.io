@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <script type="text/javascript" charset="utf-8"
+            src="scripts/code.js"></script>
+    <title>Opdracht invulformulier - Labo 4</title>
+</head>
+<body>
+<Form>
+    <label for="Fname">First name*:</label>
+    <input type="text" id="Fname" name="Firstname" required placeholder="Your first name"><br>
+    <label for="lname">Last name*:</label>
+    <input type="text" id="lname" name="Lastname" required placeholder="Your last name">
+
+    <p>Which sport do you train?</p>
+
+    <input type="checkbox" id="running" name="running" value="Running">
+    <label for="running"> Running</label><br>
+    <input type="checkbox" id="swimming" name="swimmming" value="Swimming">
+    <label for="swimming"> Swimming</label><br>
+    <input type="checkbox" id="rwng" name="rwmg" value="Rowing">
+    <label for="rwng"> Rowing</label>
+
+    <p>What is your gender?</p>
+
+    <input type="radio" id="gender1" name="gender" value="HTML">
+    <label for="gender1">Male</label><br>
+    <input type="radio" id="gender2" name="gender" value="CSS">
+    <label for="gender2">Female</label><br>
+
+    <label for="fav_mov">Favorite movie:</label>
+    <input type="text" id="fav_mov" name="Fav_mov"><br>
+    <label for="fav_q">Favorite quote:</label>
+    <input type="text" id="fav_q" name="Fav_q" placeholder="Write your favorite quote"><br>
+    <label for="pwd">Password*:</label>
+    <input type="password" id="pwd" name="pwd"><br>
+    favorite food:
+    <select name="fav_food" size="1">
+        <option value="hamb" selected ="selected">hamburger</option>
+        <option value="panc">pancakes</option>
+        <option value="poké">pokébowl</option>
+        <option value="sushi">sushi</option>
+        <option value="cornflakes">cornflakes</option>
+    </select><br>
+
+    <Form METHOD="post" ACTION="../../../../../Documenten" ENCTYPE="multipart/form-data">
+            <INPUT TYPE="file" NAME="upload"><br>
+    </Form>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required placeholder="Enter you email adress">
+</Form>
+</body>
+</html>

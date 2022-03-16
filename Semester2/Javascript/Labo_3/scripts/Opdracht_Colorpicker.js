@@ -1,5 +1,5 @@
 const setup = () => {
-    let slider = document.getElementById("slider");
+    let sliders = document.getElementsByTagName("input");
     for(let i = 0; i < sliders.length; i++)
     {
         sliders[i].addEventListener("change", update);
@@ -8,13 +8,13 @@ const setup = () => {
 }
 
 const update = () => {
-    const sliders = document.getElementsByClassName("slider");
+    const sliders = document.getElementsByTagName("input");
     let kleurRood = sliders[0].value;
     let kleurGroen = sliders[1].value;
     let kleurBlauw = sliders[2].value;
 
     let display = document.getElementById("display");
-
+    let labels = document.getElementsByTagName("label")
     labels[0].textContent = 'red: ' + kleurRood;
     labels[1].textContent = 'green: ' + kleurGroen;
     labels[2].textContent = 'blue: ' + kleurBlauw;
