@@ -6,7 +6,6 @@ const setup = () => {
         sliders[i].addEventListener("input", update);
     }
 }
-
 const update = () => {
     const sliders = document.getElementsByTagName("input");
     let kleurRood = sliders[0].value;

@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_Invulformulier.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_ManvanAn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_SpatiesMetFuncties.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_SpatiesOpConsole.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/scripts/Opdracht_ManvanAn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/scripts/Opdracht_SpatiesMetFuncties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/scripts/Opdracht_SpatiesOpConsole.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/Opdracht_Colorpicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/Opdracht_Colorpicker.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/scripts/Opdracht_Colorpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/scripts/Opdracht_Colorpicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/styles/Opdracht_Colorpicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/styles/Opdracht_Colorpicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript_Labo's.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript_Labo's.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_Invulformulier.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_Invulformulier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_ManvanAn.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_ManvanAn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_SpatiesMetFuncties.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_SpatiesMetFuncties.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_SpatiesOpConsole.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_SpatiesOpConsole.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +25,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML4 File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -111,7 +111,8 @@
       <workItem from="1646403828795" duration="9777000" />
       <workItem from="1646826908528" duration="11800000" />
       <workItem from="1647362749740" duration="4206000" />
-      <workItem from="1647428859595" duration="9345000" />
+      <workItem from="1647428859595" duration="12727000" />
+      <workItem from="1647711778229" duration="3687000" />
     </task>
     <servers />
   </component>
