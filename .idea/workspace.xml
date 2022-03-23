@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/scripts/Opdracht_Strings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_ManvanAn.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_ManvanAn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_SpatiesMetFuncties.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_4/Opdracht_SpatiesMetFuncties.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_5/Opdracht_DeEnHet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_5/Opdracht_Formvalidatie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_5/Opdracht_Formwaarden.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_5/Opdracht_Gemeenten.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_5/Opdracht_Trigams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript_Labo's.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript_Labo's.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +23,8 @@
       <list>
         <option value="HTML4 File" />
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -107,6 +110,7 @@
       <workItem from="1647362749740" duration="4206000" />
       <workItem from="1647428859595" duration="12727000" />
       <workItem from="1647711778229" duration="4379000" />
+      <workItem from="1648029475781" duration="686000" />
     </task>
     <servers />
   </component>
