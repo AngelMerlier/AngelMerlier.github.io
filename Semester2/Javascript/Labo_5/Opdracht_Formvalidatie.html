@@ -2,12 +2,27 @@
 <html lang="nl">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="styles/style.css">
-    <script type="text/javascript" charset="utf-8"
-            src="scripts/code.js"></script>
     <title>Opdracht formvalidatie</title>
 </head>
 <body>
+    <label for="voornaam">Voornaam</label>
+    <input type="text" name="naam" id="voornaam"><div id="error1"></div><br>
 
+    <label for="familienaam">familienaam</label>
+    <input type="text" name="naam" id="familienaam"><div id="error2"></div><br>
+
+    <label for="geboorte">Geboortedatum</label>
+    <input type="date" name="birth" id="geboorte"><div id="error3"></div><br>
+
+    <label for="email">email</label>
+    <input type="email" name="email" id="email"><div id="error4"></div><br>
+
+    <label for="kinderen">Aantal kinderen</label>
+    <input type="number" name="kind" id="kinderen"><div id="error5"></div><br>
+
+    <input type="submit" id="button" value="resultaat">
+
+    <script type="text/javascript" charset="utf-8"
+            src="scripts/Opdracht_Formvalidatie.js"></script>
 </body>
 </html>
