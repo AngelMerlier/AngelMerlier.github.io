@@ -5,22 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/Opdracht_ColorpickerUitbreiding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/Opdracht_DemoBubbling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/Opdracht_DemoEvents.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/Opdracht_Html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/Opdracht_Nodes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/css/Opdracht_ColorpickerUitbreiding.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/scripts/Opdracht_ColorpickerUitbreiding.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/scripts/Opdracht_DemoBubbling.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/scripts/Opdracht_DemoEvents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/scripts/Opdracht_Html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_6/scripts/Opdracht_Nodes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/Opdracht_Colorpicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/Opdracht_Colorpicker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/scripts/Opdracht_Colorpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_3/scripts/Opdracht_Colorpicker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Semester2/Javascript_Labo's.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript_Labo's.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +17,8 @@
       <list>
         <option value="HTML4 File" />
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -75,11 +59,11 @@
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo_3\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo_6\" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo_3\scripts" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo_1" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 5\html" />
-      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\css3\Labo 4\html" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -124,7 +108,7 @@
       <workItem from="1648033463555" duration="7916000" />
       <workItem from="1648569470877" duration="4421000" />
       <workItem from="1648642551304" duration="820000" />
-      <workItem from="1649760988975" duration="6294000" />
+      <workItem from="1649760988975" duration="6697000" />
     </task>
     <servers />
   </component>
