@@ -13,6 +13,7 @@ const newCard = (idx) => {
     let cardIdx = Math.round(Math.random() * (kaarten.length - 1));
     card.classList.add(kaarten[cardIdx]);
     kaarten.splice(cardIdx, 1);
+    card.addEventListener("click", selectCard);
     return card;
 }
 
@@ -26,23 +27,61 @@ const newGame = () => {
     }
 }
 
-const setup = () => {
-    newGame();
-}
+const selectCard = (e) => {
+    let classlist = e.target.classList;
+    if(!classlist.contains("selected") && !classlist.contains("hidden") && aantal_selected < 2) { // && aantal_selected < 2 zorgt ervoor dat er geen 3de kaart kan geselecteerd worden.//
+        classlist.toggle("card");
+        classlist.add("selected");
 
-
-
-const hideTheCards = () => {
-    let kaarten = document.getElementsByClassName("card");
-    for(let i= 0; cards.lengt; i++){
-        cards[i].src = 'images/backCard2.png';
-        cards[i].addEventListener("click", turnAround);
+        aantal_selected++;
+        if(aantal_selected === 2) {
+            vergelijkKaarten();
+        }
     }
 }
 
-const turnAround = () => {
-    let clickOnCard = event.target;
-    ClickOnCard.src = clickOnCard.getAttribute("data-card");
+const vergelijkKaarten = () => {
+    let card1 = document.querySelectorAll(".selected")[0];//queryselector werkt anders dan een classe/id selector//
+    let card2 = document.querySelectorAll(".selected")[1];
+
+    card1.classList.remove("selected");
+    card2.classList.remove("selected");
+
+//classlist heeft een html list terug, dit kunnen we niet vergelijken. Probeer de className te gebruiken.//
+    if(card1.className === card2.className) {
+        card1.classList.add("correct");
+        card2.classList.add("correct");
+    } else {
+        card1.classList.add("wrong");
+        card2.classList.add("wrong");
+    }
+    timeoutId = setTimeout(resetCards, 3000);
+}
+const resetCards = () => {
+    if(document.querySelectorAll(".correct").length !=0) {
+        let card1 = document.querySelectorAll(".correct")[0];
+        let card2 = document.querySelectorAll(".correct")[1];
+
+        card1.classList.remove("correct");
+        card2.classList.remove("correct");
+
+        card1.classList.add("hidden");
+        card2.classList.add("hidden");
+    } else {
+        let card1 = document.querySelectorAll(".fout")[0];
+        let card2 = document.querySelectorAll(".fout")[1];
+
+        card1.classList.remove("fout");
+        card2.classList.remove("fout");
+
+        card1.classList.toggle("card");
+        card2.classList.toggle("card");
+    }
+    aantal_selected = 0;
+}
+
+const setup = () => {
+    newGame();
 }
 
 window.addEventListener("load", setup)

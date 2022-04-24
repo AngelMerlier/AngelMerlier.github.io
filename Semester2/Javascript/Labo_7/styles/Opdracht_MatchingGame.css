@@ -40,7 +40,7 @@
     gap: 10px;
     border: 3px dotted mediumpurple;
     border-radius: 15px;
-    content: url("../images/5.png");
+    content: url("../images/4.jpg");
 }
 
 .card5 {
@@ -50,7 +50,7 @@
     gap: 10px;
     border: 3px dotted mediumpurple;
     border-radius: 15px;
-    content: url("../images/6.png");
+    content: url("../images/5.png");
 }
 
 .card6 {
@@ -60,6 +60,7 @@
     gap: 5px;
     border: 3px dotted mediumpurple;
     border-radius: 15px;
+    content: url("../images/6.png");
 }
 
 .card {

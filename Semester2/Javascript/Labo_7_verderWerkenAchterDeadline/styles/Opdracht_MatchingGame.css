@@ -1,57 +1,86 @@
+/* *{/*misschien weglaten of verplaatsen
+   display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+*/
 .card1 {
-    margin: auto;
-    width: 200px;
-    height: 250px;
-    border: 3px dotted mediumpurple;
+    margin: 5px;
+    width: 180px;
+    height: 240px;
+    border: 5px solid indianred;
     border-radius: 15px;
+    content: url("../images/1.jpg");
 }
 .card2 {
-    margin: auto;
-    width: 200px;
-    height: 250px;
-    border: 3px dotted mediumpurple;
+    margin: 5px;
+    width: 180px;
+    height: 240px;
+    border: 5px solid indianred;
     border-radius: 15px;
+    content: url("../images/2.jpg");
 }
 
 .card3 {
-    margin: auto;
-    width: 200px;
-    height: 250px;
-    border: 3px dotted mediumpurple;
+    margin: 5px;
+    width: 180px;
+    height: 240px;
+    border: 5px solid indianred;
     border-radius: 15px;
+    content: url("../images/3.jpg");
 }
 
-.card3 {
-    margin: auto;
-    width: 200px;
-    height: 250px;
-    border: 3px dotted mediumpurple;
+.card4{
+    margin: 5px;
+    width: 180px;
+    height: 240px;
+    border: 5px solid indianred;
     border-radius: 15px;
-}
-
-.card4 {
-    margin: auto;
-    width: 200px;
-    height: 250px;
-    border: 3px dotted mediumpurple;
-    border-radius: 15px;
+    content: url("../images/4.jpg");
 }
 
 .card5 {
-    margin: auto;
-    width: 200px;
-    height: 250px;
-    border: 3px dotted mediumpurple;
+    margin: 5px;
+    width: 180px;
+    height: 240px;;
+    border: 5px solid indianred;
     border-radius: 15px;
+    content: url("../images/5.png");
 }
 
 .card6 {
-    margin: auto;
-    width: 200px;
-    height: 250px;
-    border: 3px dotted mediumpurple;
+    margin: 5px;
+    width: 180px;
+    height: 240px;
+    border: 5px solid indianred;
     border-radius: 15px;
+    content: url("../images/6.png");
 }
-#playfield {
-    display: grid;
+
+.card {
+    margin: 5px;
+    width: 180px;
+    height: 240px;
+    object-fit: cover;
+    border: 5px solid darkblue;
+    border-radius: 15px;
+    content: url("../images/backCard2.jpg");
+}
+
+.selected {
+
+}
+
+/*Opzoeken goede manier foute kaarten aangeven*/
+.correct {
+    /*dit gaat niet werken zoek op MDN*/
+    border: 5px solid green;
+}
+
+.wrong {
+    border: 5px solid red;
+}
+
+.hidden {
+    visibility: hidden;
 }
