@@ -1,7 +1,14 @@
+/* *{/*misschien weglaten of verplaatsen
+   display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+*/
 .card1 {
     margin: auto;
     width: 200px;
     height: 250px;
+    gap: 10px;
     border: 3px dotted mediumpurple;
     border-radius: 15px;
     content: url("../images/1.jpg");
@@ -10,6 +17,7 @@
     margin: auto;
     width: 200px;
     height: 250px;
+    gap: 10px;
     border: 3px dotted mediumpurple;
     border-radius: 15px;
     content: url("../images/2.jpg");
@@ -19,24 +27,17 @@
     margin: auto;
     width: 200px;
     height: 250px;
+    gap: 10px;
     border: 3px dotted mediumpurple;
     border-radius: 15px;
     content: url("../images/3.jpg");
-}
-
-.card3 {
-    margin: auto;
-    width: 200px;
-    height: 250px;
-    border: 3px dotted mediumpurple;
-    border-radius: 15px;
-    content: url("../images/4.jpg");
 }
 
 .card4{
     margin: auto;
     width: 200px;
     height: 250px;
+    gap: 10px;
     border: 3px dotted mediumpurple;
     border-radius: 15px;
     content: url("../images/5.png");
@@ -46,6 +47,7 @@
     margin: auto;
     width: 200px;
     height: 250px;
+    gap: 10px;
     border: 3px dotted mediumpurple;
     border-radius: 15px;
     content: url("../images/6.png");
@@ -55,11 +57,17 @@
     margin: auto;
     width: 200px;
     height: 250px;
+    gap: 5px;
     border: 3px dotted mediumpurple;
     border-radius: 15px;
 }
 
 .card {
+    margin: auto;
+    width: 200px;
+    height: 250px;
+    gap: 5px;
+    border-radius: 15px;
     content: url("../images/backCard2.jpg");
 }
 
@@ -75,7 +83,4 @@
 
 .wrongCard {
     color: red;
-}
-#playfield {
-    display: grid;
 }
