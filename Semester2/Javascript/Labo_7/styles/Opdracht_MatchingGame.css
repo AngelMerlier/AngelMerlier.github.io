@@ -58,6 +58,24 @@
     border: 3px dotted mediumpurple;
     border-radius: 15px;
 }
+
+.card {
+    content: url("../images/backCard2.jpg");
+}
+
+.selected {
+
+}
+
+/*Opzoeken goede manier foute kaarten aangeven*/
+.correctCard {
+    /*dit gaat niet werken zoek op MDN*/
+    color: green;
+}
+
+.wrongCard {
+    color: red;
+}
 #playfield {
     display: grid;
 }
