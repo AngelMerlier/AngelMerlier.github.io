@@ -1,0 +1,57 @@
+.card1 {
+    margin: auto;
+    width: 200px;
+    height: 250px;
+    border: 3px dotted mediumpurple;
+    border-radius: 15px;
+}
+.card2 {
+    margin: auto;
+    width: 200px;
+    height: 250px;
+    border: 3px dotted mediumpurple;
+    border-radius: 15px;
+}
+
+.card3 {
+    margin: auto;
+    width: 200px;
+    height: 250px;
+    border: 3px dotted mediumpurple;
+    border-radius: 15px;
+}
+
+.card3 {
+    margin: auto;
+    width: 200px;
+    height: 250px;
+    border: 3px dotted mediumpurple;
+    border-radius: 15px;
+}
+
+.card4 {
+    margin: auto;
+    width: 200px;
+    height: 250px;
+    border: 3px dotted mediumpurple;
+    border-radius: 15px;
+}
+
+.card5 {
+    margin: auto;
+    width: 200px;
+    height: 250px;
+    border: 3px dotted mediumpurple;
+    border-radius: 15px;
+}
+
+.card6 {
+    margin: auto;
+    width: 200px;
+    height: 250px;
+    border: 3px dotted mediumpurple;
+    border-radius: 15px;
+}
+#playfield {
+    display: grid;
+}
