@@ -4,26 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/styles/Opdracht_MatchingGame.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/BeginSituatie_HitAnObject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/BeginSituatie_HitAnObject/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/BeginSituatie_HitAnObject/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/BeginSituatie_HitAnObject/scripts/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/BeginSituatie_HitAnObject/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/BeginSituatie_HitAnObject/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/Opdracht_MatchingGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/Opdracht_MatchingGame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/148856235-cute-cartoon-animals-set-vector-illustration-.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/download (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/download.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/images (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/images (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/images (3).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/images (4).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/images (5).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/images.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/images/images.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/scripts/Opdracht_MatchingGame.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/scripts/Opdracht_MatchingGame.js" afterDir="false" />
-    </list>
+    <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Semester2/Javascript/Labo_7/styles" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Semester2/Javascript" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -127,7 +108,7 @@
       <workItem from="1648642551304" duration="820000" />
       <workItem from="1649760988975" duration="6771000" />
       <workItem from="1650458868037" duration="6297000" />
-      <workItem from="1650642725084" duration="5065000" />
+      <workItem from="1650642725084" duration="5380000" />
     </task>
     <servers />
   </component>
