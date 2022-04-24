@@ -8,6 +8,8 @@ let global = {
     timeoutId: 0 // id van de timeout timer, zodat we die kunnen annuleren
 };
 
+let verplaatsImage;
+
 const setup = () => {
     const button = document.querySelector('button');
     button.addEventListener("click", verplaatsImage)
