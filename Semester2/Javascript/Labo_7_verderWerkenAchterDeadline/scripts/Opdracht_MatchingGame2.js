@@ -4,7 +4,7 @@ let AANTAL_VERTICAAL=3;
 let AANTAL_KAARTEN=6;
 //css en html aanpassen***//
 let kaarten = ["card1", "card2", "card3", "card4", "card5", "card6", "card1", "card2", "card3", "card4", "card5", "card6"]
-let globaal
+let globaal =
 {
     aantal_selected: 0,
     timeoutId: 0,
@@ -59,7 +59,7 @@ const vergelijkKaarten = () => {
         card1.classList.add("wrong");
         card2.classList.add("wrong");
     }
-    timeoutId = setTimeout(resetCards, 3000);
+    globaal.timeoutId = setTimeout(resetCards, 3000);
 }
 const resetCards = () => {
     if(document.querySelectorAll(".correct").length !=0) {
