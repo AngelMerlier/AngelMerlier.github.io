@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/styles/Opdracht_MatchingGame.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_7/styles/Opdracht_MatchingGame.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7_verderWerkenAchterDeadline/scripts/Opdracht_MatchingGame2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_7_verderWerkenAchterDeadline/scripts/Opdracht_MatchingGame2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_7_verderWerkenAchterDeadline/styles/Opdracht_MatchingGame.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_7_verderWerkenAchterDeadline/styles/Opdracht_MatchingGame.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -117,7 +115,8 @@
       <workItem from="1648642551304" duration="820000" />
       <workItem from="1649760988975" duration="6771000" />
       <workItem from="1650458868037" duration="6297000" />
-      <workItem from="1650642725084" duration="18371000" />
+      <workItem from="1650642725084" duration="19209000" />
+      <workItem from="1650953152494" duration="298000" />
     </task>
     <servers />
   </component>

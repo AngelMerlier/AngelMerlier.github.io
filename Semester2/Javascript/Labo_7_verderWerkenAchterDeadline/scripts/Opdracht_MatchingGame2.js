@@ -1,10 +1,14 @@
+
 let AANTAL_HORIZONTAAL=4;
 let AANTAL_VERTICAAL=3;
 let AANTAL_KAARTEN=6;
 //css en html aanpassen***//
 let kaarten = ["card1", "card2", "card3", "card4", "card5", "card6", "card1", "card2", "card3", "card4", "card5", "card6"]
-aantal_selected: 0;
-timeoutId: 0;
+let globaal
+{
+    aantal_selected: 0,
+    timeoutId: 0,
+}
 
 /* kaarten zijn verdwenen zoek fout in code(inspecteren) zie appendchild*/
 const newCard = (idx) => {
@@ -29,12 +33,12 @@ const newGame = () => {
 
 const selectCard = (e) => {
     let classlist = e.target.classList;
-    if(!classlist.contains("selected") && !classlist.contains("hidden") && aantal_selected < 2) { // && aantal_selected < 2 zorgt ervoor dat er geen 3de kaart kan geselecteerd worden.//
+    if(!classlist.contains("selected") && !classlist.contains("hidden") && globaal.aantal_selected < 2) { // && aantal_selected < 2 zorgt ervoor dat er geen 3de kaart kan geselecteerd worden.//
         classlist.toggle("card");
         classlist.add("selected");
 
-        aantal_selected++;
-        if(aantal_selected === 2) {
+        globaal.aantal_selected++;
+        if(globaal.aantal_selected === 2) {
             vergelijkKaarten();
         }
     }
@@ -77,7 +81,7 @@ const resetCards = () => {
         card1.classList.toggle("card");
         card2.classList.toggle("card");
     }
-    aantal_selected = 0;
+    globaal.aantal_selected = 0;
 }
 
 const setup = () => {
