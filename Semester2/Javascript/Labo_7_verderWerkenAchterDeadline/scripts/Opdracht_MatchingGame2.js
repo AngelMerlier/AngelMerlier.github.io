@@ -59,7 +59,7 @@ const vergelijkKaarten = () => {
         card1.classList.add("wrong");
         card2.classList.add("wrong");
     }
-    globaal.timeoutId = setTimeout(resetCards, 3000);
+    globaal.timeoutId = setTimeout(resetCards, 1500);
 }
 const resetCards = () => {
     if(document.querySelectorAll(".correct").length !=0) {
@@ -72,11 +72,11 @@ const resetCards = () => {
         card1.classList.add("hidden");
         card2.classList.add("hidden");
     } else {
-        let card1 = document.querySelectorAll(".fout")[0];
-        let card2 = document.querySelectorAll(".fout")[1];
+        let card1 = document.querySelectorAll(".wrong")[0];
+        let card2 = document.querySelectorAll(".wrong")[1];
 
-        card1.classList.remove("fout");
-        card2.classList.remove("fout");
+        card1.classList.remove("wrong");
+        card2.classList.remove("wrong");
 
         card1.classList.toggle("card");
         card2.classList.toggle("card");
