@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265bb42f-7090-4e56-8208-b24e7d787b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/Opdracht_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/Opdracht_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/Opdracht_2_end.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/scripts/Opdracht_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/scripts/Opdracht_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/scripts/Opdracht_2_end.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_9/Opracht_MyInternetStartPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_9/scripts/Opdracht_MyInternetStartPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_9/styles/Opdracht_MyInternetStartPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/start contact manager opdracht/__MACOSX/._start contact manager opdracht" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/start contact manager opdracht/__MACOSX/start contact manager opdracht/._scripts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/start contact manager opdracht/__MACOSX/start contact manager opdracht/._styles" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/start contact manager opdracht/__MACOSX/start contact manager opdracht/scripts/._validatie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/start contact manager opdracht/__MACOSX/start contact manager opdracht/styles/._styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/start contact manager opdracht/start contact manager opdracht/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript/Labo_8/start contact manager opdracht/start contact manager opdracht/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester2/Javascript_Labo's.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester2/Javascript_Labo's.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +21,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML4 File" />
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Semester2/Javascript/Labo's_opniewMaken" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Semester2/Javascript/Labo_9" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -69,11 +61,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo_9" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo's_opniewMaken" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo_7\styles" />
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo_7" />
-      <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo_6\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\merli\OneDrive\Documents\WebDevelopment\AngelMerlier.github.io\Semester2\Javascript\Labo_6\" />
@@ -130,7 +122,8 @@
       <workItem from="1650642725084" duration="19209000" />
       <workItem from="1650953152494" duration="1986000" />
       <workItem from="1650968309179" duration="1176000" />
-      <workItem from="1651392308666" duration="1287000" />
+      <workItem from="1651392308666" duration="1443000" />
+      <workItem from="1651648180759" duration="2610000" />
     </task>
     <servers />
   </component>
